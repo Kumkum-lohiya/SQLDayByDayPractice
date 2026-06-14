@@ -21,3 +21,11 @@ A collection of daily SQL practice queries covering basic to advanced concepts, 
 * Column Aliases
 * CREATE TABLE & PRIMARY KEY
 
+### Day 3
+
+* Comparison Operators
+* Logical Operators
+* LIKE Operator
+* IN & NOT IN
+* BETWEEN Operator
+
