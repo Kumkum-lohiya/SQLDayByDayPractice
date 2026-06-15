@@ -29,3 +29,10 @@ A collection of daily SQL practice queries covering basic to advanced concepts, 
 * IN & NOT IN
 * BETWEEN Operator
 
+### Day 4
+
+* Basic Joins
+* INNER JOIN
+* LEFT JOIN
+* RIGHT JOIN
+* FULL OUTER JOIN
