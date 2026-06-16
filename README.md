@@ -36,3 +36,13 @@ A collection of daily SQL practice queries covering basic to advanced concepts, 
 * LEFT JOIN
 * RIGHT JOIN
 * FULL OUTER JOIN
+
+### Day 5
+
+* Advanced Joins
+* Multiple Joins
+* UNION
+* INTERSECT
+* EXCEPT
+* Set Operators
+
