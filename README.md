@@ -46,3 +46,12 @@ A collection of daily SQL practice queries covering basic to advanced concepts, 
 * EXCEPT
 * Set Operators
 
+
+### Day 6
+
+* String Manipulation Functions
+* String Extraction Functions
+* Calculation Functions
+* Number Functions
+* FORMAT Function
+
