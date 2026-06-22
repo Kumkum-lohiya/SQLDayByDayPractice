@@ -55,3 +55,11 @@ A collection of daily SQL practice queries covering basic to advanced concepts, 
 * Number Functions
 * FORMAT Function
 
+  ### Day 7
+
+* CAST Function
+* CONVERT Function
+* Date Calculations
+* Date Functions
+
+
